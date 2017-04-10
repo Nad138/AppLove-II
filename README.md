@@ -1,2 +1,2 @@
-# Leccion-21-guiado
-- Debemos replicar paso a paso el ejercicio guiado de la Lección 21
+# Leccion-21-AppLove II
+- Luego de terminar el guiado de la Lección 21, debemos trabajar el enunciado por nuestra cuenta
