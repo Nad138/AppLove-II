@@ -28,7 +28,7 @@ function create(){
 }
 
 function addImage(){
-  var content = document.getElementById("content-box");
+  var content = document.getElementById("content-image");
     for(var i=1; i<13;i++){
         var div = document.createElement("div");
         div.classList.add("box-work");
